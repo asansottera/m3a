@@ -8,7 +8,10 @@ used to model multi-class correlated arrivals athe arrivals at a queuing system.
 M3A is a set of Matlab functions designed for computing the statistical descriptors
 of MMAPs and fitting marked traces with MMAPs.
 
-M3A is a joint work of Andrea Sansottera, Giuliano Casale and Paolo Cremonesi.
+M3A is a joint work of
+<a href="http://home.deib.polimi.it/sansottera/">Andrea Sansottera</a>,
+<a href="http://wp.doc.ic.ac.uk/gcasale/">Giuliano Casale</a> and
+<a href="http://home.deib.polimi.it/cremones/">Paolo Cremonesi</a>.
 If you use M3A for your research, please reference the following paper:
 
 Andrea Sansottera, Giuliano Casale, Paolo Cremonesi,
