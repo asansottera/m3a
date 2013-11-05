@@ -4,7 +4,7 @@ M3A: Marked MAP Matching Algorithms
 (Under Construction)
 
 Marked Markovian Arrival Processes (MMAPs) are a class of stochastic processes
-used to model multi-class correlated arrivals athe arrivals at a queuing system.
+used to model multi-class correlated arrivals at a queuing system.
 M3A is a set of Matlab functions designed for computing the statistical descriptors
 of MMAPs and fitting marked traces with MMAPs.
 
